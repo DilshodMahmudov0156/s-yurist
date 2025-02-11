@@ -1,0 +1,41 @@
+{
+  "navbar": {
+    "about": "Haqida",
+    "contact": "Aloqa",
+    "work": "Ishlar",
+    "services": "Xizmatlar"
+  },
+  "aboutMe": {
+    "name": "Sitora Qodirova",
+    "jobTitle": "O'rta professional yurist",
+    "description": "Men Sitora Qodirova, 09.10.2001-yil tug'ilganman. Hozirda Jizzax viloyati yuristprudensiyada ta'lim olaman.",
+    "description2": "Mening maqsadim jamiyatda huquqiy ong va huquqiy madaniyatni yuksaltirish va aholiga bepul yuridik yordam ko'rsatish.",
+    "experience": "Tajriba"
+  },
+  "work": {
+    "title": "Ish tajriba & Ta'lim",
+    "description": "Ta'lim olgan joylarim va ish tajribam haqida qisqacha ma'lumotlar"
+  },
+
+  "contact": {
+    "title": "Biz bilan bog'lanish",
+    "subtitle": "Quyidagi formani to'ldiring va biz sizga tez orada javob beramiz",
+    "firstName": "Ism",
+    "lastName": "Familiya",
+    "email": "Elektron pochta",
+    "phone": "Telefon raqam",
+    "service": "Kerakli xizmat",
+    "contactMethod": "Aloqa usuli",
+    "message": "Xabaringiz",
+    "submit": "Xabarni yuborish"
+  },
+  "services": {
+    "title": "Xizmatlar",
+    "contracts": "Shartnomalar",
+    "applications": "Arizalar",
+    "personnelDocs": "Shaxsiy tarkibga oid xujjatlar",
+    "courtDocs": "Sudga oid xujjatlar",
+    "other": "Boshqa",
+    "more": "Ko'proq"
+  }
+}

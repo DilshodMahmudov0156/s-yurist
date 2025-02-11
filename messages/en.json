@@ -1,0 +1,40 @@
+{
+  "navbar": {
+    "about": "About",
+    "contact": "Contact",
+    "work": "Work",
+    "services": "Services"
+  },
+  "aboutMe": {
+    "name": "Sitora Qodirova",
+    "jobTitle": "Mid-level professional lawyer",
+    "description": "Hey, my name is Sitora Qodirova, I was born on 09.10.2001. Currently, I am studying at the Faculty of Law of Jizzakh region.",
+    "description2": "My goal is to raise legal culture and legal awareness in society and provide free legal assistance to citizens.",
+    "experience": "Experience"
+  },
+  "work": {
+    "title": "Work Experience & Education",
+    "description": "Brief information about my education and work experience"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Fill out the form below and we'll get back to you soon",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "service": "Service Needed",
+    "contactMethod": "Preferred Contact Method",
+    "message": "Your Message",
+    "submit": "Send Message"
+  },
+  "services": {
+    "title": "Services",
+    "contracts": "Contracts",
+    "applications": "Applications",
+    "personnelDocs": "Documents for Personnel",
+    "courtDocs": "Court Documents",
+    "other": "Other",
+    "more": "More"
+  }
+}
